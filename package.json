@@ -1,0 +1,26 @@
+{
+  "name": "get-command-args",
+  "version": "1.0.0",
+  "description": "Get positional args and url path",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "args",
+    "cmd"
+  ],
+  "author": "Quentin Engles <hollowdoor99@gmail.com>",
+  "license": "MIT",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hollowdoor/get_command_args.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hollowdoor/get_command_args/issues"
+  },
+  "homepage": "https://github.com/hollowdoor/get_command_args#readme"
+}
